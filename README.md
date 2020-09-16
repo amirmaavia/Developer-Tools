@@ -8,3 +8,5 @@
 
 
  [Bundlephobia](https://bundlephobia.com/) is a great tool that lets you know the bundle size of your packages. Bundlephobia tells you the minified size, minified and gzipped size, as well as the download time on varying download speeds. Just search for the node package you want to add or paste the JavaScript code directly into it. It also tells if the bundle uses some other dependencies in terms of composition.
+
+ ![Alt Bundlephobia](https://miro.medium.com/max/700/1*bT6xyErIaZG1xCEDfIq6oA.jpeg)
