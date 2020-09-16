@@ -9,7 +9,7 @@
 
  [Bundlephobia](https://bundlephobia.com/) is a great tool that lets you know the bundle size of your packages. Bundlephobia tells you the minified size, minified and gzipped size, as well as the download time on varying download speeds. Just search for the node package you want to add or paste the JavaScript code directly into it. It also tells if the bundle uses some other dependencies in terms of composition.
 
- ![Alt Bundlephobia](https://drive.google.com/file/d/1DYGR6eaxH7cwbgtKGBehM0TF7SpsjdHh/view?usp=sharing)
+ ![Alt Bundlephobia](https://drive.google.com/file/d/1C4BdoARgLD-pzjbqKdBEDN2ciiAcAmAw/view?usp=drivesdk)
 
 
  ## 2. Cloudcraft
